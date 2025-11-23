@@ -1,3 +1,11 @@
-#include <iostream>
+#include "account.h"
 
-#include <Bank>
+
+
+#include <iostream>
+#include <string>
+
+int main() {
+	account a;
+	a.CreateNewAccount();
+}
